@@ -15,5 +15,6 @@ public class test {
 	}
 	
 	public void newMethod() {
+		int testcount = 2;
 	}
 }
