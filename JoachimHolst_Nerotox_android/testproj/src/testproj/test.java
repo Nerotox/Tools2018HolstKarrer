@@ -13,4 +13,7 @@ public class test {
 		String alex = "hunrig";
 >>>>>>> e7f5bde8f793148954f01858df0873270ba88e42
 	}
+	
+	public void newMethod() {
+	}
 }
