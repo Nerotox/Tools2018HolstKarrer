@@ -15,5 +15,7 @@ public class test {
 	
 	public void newMethod() {
 		int testcount = 2;
+		//changes made in new pull branch
+		testcount = 3;
 	}
 }
