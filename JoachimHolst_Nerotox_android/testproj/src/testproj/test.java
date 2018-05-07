@@ -7,5 +7,7 @@ public class test {
 	}
 
 
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() { 
+		System.out.println("gday my dude");
+	}
 }
