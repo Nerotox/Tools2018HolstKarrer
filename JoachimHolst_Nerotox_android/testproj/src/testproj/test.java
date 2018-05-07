@@ -7,5 +7,8 @@ public class test {
 	}
 
 
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() {
+		String alex = "hunrig";
+		
+	}
 }
