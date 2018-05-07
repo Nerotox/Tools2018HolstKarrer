@@ -10,5 +10,6 @@ public class test {
 	public void thisIsANewMethod() { 
 		System.out.println("gday my dude");
 		String alex = "hunrig";
+		String alex = "hungrig";
 	}
 }
